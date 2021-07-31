@@ -130,7 +130,7 @@
 
 ## COMO RODAR O PROJETO:
 
-1. Necessário ter o **`Node`**, **`NPM`** instalados e servidor do **`MongoDB`** ativo:
+1. Necessário ter o **`Node`**, **`NPM`** instalados e o servidor do **`MongoDB`** ativo:
    - Abra o terminal na raiz do Projeto
    - Rode o comando **`npm install`** para instalar as dependências
    - Rode o servidor com o comando **`npm run debug`**
